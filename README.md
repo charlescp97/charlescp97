@@ -58,19 +58,19 @@ import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
 import seaborn as sns
-import scipy as sp
+import joblib
  ```
 Machine learning tools
  ```
+import torch
 from sklearn import ensemble, metrics, preprocessing
-import numba
-import joblib
  ```
 Let the science begin!
 
 
 ### Visualization & Analysis Tools
 - VMD & Ovito for molecular visualization
+- Blender for animations
 - ggplot2 for advanced data visualization in R
 - Mathematica for symbolic computation
 - Custom data pipelines for computational analysis
