@@ -1,4 +1,4 @@
-# 👨‍🔬 Dr. [Your Name] | Computational Chemist & ML Scientist
+# 👨‍🔬 Charlie | Computational Chemist & ML Scientist
 
 <div align="center">
   
