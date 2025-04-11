@@ -3,10 +3,12 @@
 <div align="center">
   
   ![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.gif)
+
+  ![On-going Projects](https://img.shields.io/badge/Projects_in_Progress-4-blue)
+
   
-  [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)
-  [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=yourusername&repo=yourrepository&countColor=%237B1E7A)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charles-phillips-49477719a/)
   
 </div>
 
@@ -14,7 +16,7 @@
 
 > *Bridging the gap between theoretical chemistry, computational methods, and machine learning applications*
 
-I'm a **Machine Learning Scientist** at **Intellegens** with a focus on chemical and life sciences. My work spans across various domains including pharmacokinetics and materials manufacturing.
+I'm a **Machine Learning Scientist** at **Intellegens** with a focus on chemical and life sciences. My work spans across various domains including pharmacokinetics, oligonucleotide manufacturing and materials.
 
 ### 🎓 Academic Background
 - **PhD** in Computational and Theoretical Chemistry
@@ -40,28 +42,30 @@ I'm a **Machine Learning Scientist** at **Intellegens** with a focus on chemical
 
 <div align="center">
   
-  ![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-Advanced-008080?style=for-the-badge&logo=latex&logoColor=white)
   
 </div>
 
 ### Python Ecosystem
 ## My data science toolkit
+ ```
 import pandas as pd
 import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
 import seaborn as sns
 import scipy as sp
-
+ ```
 Machine learning tools
+ ```
 from sklearn import ensemble, metrics, preprocessing
 import numba
 import joblib
-
+ ```
 Let the science begin!
 
 
