@@ -7,7 +7,7 @@
   ![On-going Projects](https://img.shields.io/badge/Projects_in_Progress-4-blue)
 
   
-  ![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=yourusername&repo=yourrepository&countColor=%237B1E7A)
+  ![Visits](https://api.visitorbadge.io/api/VisitorHit?user=yourusername&repo=yourrepository&countColor=%237B1E7A)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/charles-phillips-49477719a/)
   
 </div>
@@ -31,12 +31,15 @@ I'm a **Machine Learning Scientist** at **Intellegens** with a focus on chemical
 - PMF Calculations
 - Statistical Mechanics
 - Thermodynamics
+- Chromatin Dynamics
+
 
 ### Computational Methods
 - Biomolecular Simulation
-- Chromatin Dynamics
 - Molecular Dynamics
 - Enhanced Sampling Techniques
+- Machine Learning
+- Design of Experiments
 
 ## 💻 Technical Skills
 
@@ -65,8 +68,6 @@ Machine learning tools
 import torch
 from sklearn import ensemble, metrics, preprocessing
  ```
-Let the science begin!
-
 
 ### Visualization & Analysis Tools
 - VMD & Ovito for molecular visualization
@@ -83,7 +84,7 @@ As a **Machine Learning Scientist**, I specialize in:
 
 - Developing ML models for chemical and life sciences applications
 - Creating predictive models for pharmacokinetic properties
-- Optimizing materials manufacturing processes using ML
+- Optimising materials manufacturing processes using ML
 - Bridging scientific domain knowledge with advanced ML techniques
 
 <br clear="left"/>
