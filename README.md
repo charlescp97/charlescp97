@@ -16,7 +16,7 @@
 
 > *Bridging the gap between theoretical chemistry, computational methods, and machine learning applications*
 
-I'm a **Machine Learning Scientist** at **Intellegens** with a focus on chemical and life sciences. My work spans across various domains including pharmacokinetics, oligonucleotide manufacturing and materials.
+I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus on chemical and life sciences. My work spans across various domains including pharmacokinetics, oligonucleotide manufacturing and materials.
 
 ### 🎓 Academic Background
 - **PhD** in Computational and Theoretical Chemistry
