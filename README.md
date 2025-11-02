@@ -1,4 +1,4 @@
-# 👨‍🔬 Charlie | Computational Chemist & ML Scientist
+# Charlie | Computational Chemist & ML Scientist
 
 <div align="center">
   
@@ -16,7 +16,7 @@
 
 > *Bridging the gap between theoretical chemistry, computational methods, and machine learning applications*
 
-I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus on chemical and life sciences. My work spans across various domains including pharmacokinetics, oligonucleotide manufacturing and materials.
+I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus on chemical and life sciences.
 
 ### 🎓 Academic Background
 - **PhD** in Computational and Theoretical Chemistry
@@ -25,7 +25,7 @@ I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus
 
 ## 💡 Scientific Expertise
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/molecular-simulation.gif" />
+<!-- <img align="right" width="350" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/molecular-simulation.gif" /> -->
 
 ### Theoretical Chemistry
 - PMF Calculations
@@ -66,36 +66,34 @@ import joblib
 Machine learning tools
  ```
 import torch
-from sklearn import ensemble, metrics, preprocessing
+import sklearn
  ```
 
 ### Visualization & Analysis Tools
 - VMD & Ovito for molecular visualization
 - Blender for animations
 - ggplot2 for advanced data visualization in R
-- Mathematica for symbolic computation
+- Mathematica 
 - Custom data pipelines for computational analysis
 
 ## 🚀 Current Work at Intellegens
 
-<img align="left" width="300" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/ml-diagram.png" />
+<!-- <img align="left" width="300" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/ml-diagram.png" /> -->
 
-As a **Machine Learning Scientist**, I specialize in:
+As a **Principle Life Science Innovation Lead**, I specialize in:
 
 - Developing ML models for chemical and life sciences applications
-- Creating predictive models for pharmacokinetic properties
-- Optimising materials manufacturing processes using ML
+- Creating predictive models for specific applications such as pharmacokinetic properties, QSAR and optimising chemical synthesis. 
 - Bridging scientific domain knowledge with advanced ML techniques
 
 <br clear="left"/>
 
 
-## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charlescp97&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlescp97&theme=radical" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ## 📫 Let's Connect!
 
