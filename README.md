@@ -12,18 +12,18 @@
   
 </div>
 
-## 🧪 About Me
+## About Me
 
 > *Bridging the gap between theoretical chemistry, computational methods, and machine learning applications*
 
 I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus on chemical and life sciences.
 
-### 🎓 Academic Background
+### Academic Background
 - **PhD** in Computational and Theoretical Chemistry
 - **MPhil** in Scientific Computing
 - **MChem** in Pure and Applied Chemistry
 
-## 💡 Scientific Expertise
+## Scientific Expertise
 
 <!-- <img align="right" width="350" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/molecular-simulation.gif" /> -->
 
@@ -75,7 +75,7 @@ import sklearn
 - Mathematica 
 - Custom data pipelines for computational analysis
 
-## 🚀 Current Work at Intellegens
+## Current Work at Intellegens
 
 <!-- <img align="left" width="300" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/ml-diagram.png" /> -->
 
@@ -87,14 +87,21 @@ As a **Principle Life Science Innovation Lead**, I specialize in:
 
 <br clear="left"/>
 
+## Active Projects
 
+I'm currently working on several exciting projects that combine my interests in computational chemistry, machine learning, and software development:
+
+- **Oligonucleotide ML Development** - Developing machine learning models for oligonucleotide analysis and prediction
+- **Website Design** - Personal site
+- **Learning Rust** - Exploring Rust for scientific computing 
+- **Bioanalysis Library** - Creating a comprehensive library for bioanalytical data processing and analysis
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charlescp97&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlescp97&theme=radical" alt="GitHub Streak" />
 </div> -->
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting scientific collaborations and discussions on personal projects:
 
