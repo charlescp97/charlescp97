@@ -47,10 +47,10 @@ I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus
   
   ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=blue)
   ![Bash](https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-Advanced-008080?style=for-the-badge&logo=latex&logoColor=white)
-  
+  ![Rust](https://img.shields.io/badge/Rust-Beginner-000000?style=for-the-badge&logo=rust&logoColor=orange)
 </div>
 
 ### Python Ecosystem
