@@ -52,27 +52,12 @@ I'm a **Principal Life Science Innovation Lead** at **Intellegens**.
   ![Rust](https://img.shields.io/badge/Rust-Beginner-000000?style=for-the-badge&logo=rust&logoColor=orange)
 </div>
 
-### Python Ecosystem
-## My data science toolkit
- ```
-import pandas as pd
-import numpy as np
-import scipy as sp
-import matplotlib.pyplot as plt
-import joblib
- ```
-Machine learning tools
- ```
-import torch
-import sklearn
- ```
 
-### Visualization & Analysis Tools
-- VMD & Ovito for molecular visualization
+
+### Visualization Tools
+- VMD, PyMOL & Ovito for molecular visualization
 - Blender for animations
-- ggplot2 for advanced data visualization in R
-- Mathematica 
-- Custom data pipelines for computational analysis
+
 
 ## Current Work at Intellegens
 
