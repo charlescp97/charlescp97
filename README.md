@@ -16,7 +16,7 @@
 
 > *Bridging the gap between theoretical chemistry, computational methods, and machine learning applications*
 
-I'm a **Principle Life Science Innovation Lead** at **Intellegens** with a focus on chemical and life sciences.
+I'm a **Principal Life Science Innovation Lead** at **Intellegens**.
 
 ### Academic Background
 - **PhD** in Computational and Theoretical Chemistry
