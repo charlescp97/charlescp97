@@ -63,7 +63,7 @@ I'm a **Principal Life Science Innovation Lead** at **Intellegens**.
 
 <!-- <img align="left" width="300" src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/ml-diagram.png" /> -->
 
-As a **Principle Life Science Innovation Lead**, I specialize in:
+As a **Principal Solution Scientist**, I specialize in:
 
 - Developing ML models for chemical and life sciences applications
 - Creating predictive models for specific applications such as pharmacokinetic properties, QSAR and optimising chemical synthesis. 
